@@ -1,0 +1,11 @@
+{
+  "name": "anthophila",
+  "version": "1.0.0",
+  "description": "Demonstration of deployment of Smart Contract with Hardhat",
+  "main": "index.js",
+  "author": "Anthophila Team",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.14.0"
+  }
+}
