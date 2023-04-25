@@ -271,5 +271,5 @@ contract Holographic{
        
     }
 
-     fallback() external payable { }
+    
 }
